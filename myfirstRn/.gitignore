@@ -24,9 +24,18 @@ npm-debug.*
 yarn-debug.*
 yarn-error.*
 
-# macOS
-./.DS_Store
-../.DS_Store
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
 *.pem
 
 # local env files
